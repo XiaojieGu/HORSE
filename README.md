@@ -10,7 +10,7 @@ For any inquiries, feel free to reach out at **peettherapynoys@gmail.com**
 
 
 ## 📑 Citation
-If you find HORSE useful for your research and applications, please cite using this BibTeX:
+If you find **HORSE** useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @inproceedings{gu2026hierarchicalorthogonalresidualspread,
   title={Hierarchical Orthogonal Residual Spread for Precise Massive Editing in Large Language Models},
