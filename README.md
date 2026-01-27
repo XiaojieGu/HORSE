@@ -41,10 +41,6 @@ python main.py data=zsre \
 ```
 
 
-**Supported Options:**
-
-| Parameter | Options |
-**Key Hyperparameters:**
 ## 📁 Project Structure
 
 ```
