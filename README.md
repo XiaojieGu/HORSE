@@ -1,7 +1,7 @@
 # [Hierarchical Orthogonal Residual Spread for Precise Massive Editing in Large Language Models](https://arxiv.org/pdf/2601.11441) [![arXiv](https://img.shields.io/badge/arXiv-2601.11441-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.11441)
 
 
-## 📦 Data Preparation
+##  Data Preparation
 
 Download the datasets from [Google Drive](https://TBD) and place them under:
 
@@ -15,7 +15,7 @@ data/
     └── cf_eval.json
 ```
 
-## 🚀 Setup
+##  Setup
 
 ```bash
 conda create -n horse python=3.10
@@ -23,7 +23,7 @@ conda activate horse
 pip install -r requirements.txt
 ```
 
-## 🧪 Run
+##  Run
 
 ```bash
 sh run.sh
@@ -41,7 +41,7 @@ python main.py data=zsre \
 ```
 
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── config/
@@ -56,15 +56,15 @@ python main.py data=zsre \
 └── main.py            # Entry point
 ```
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 Our work is based on [MALMEN](https://github.com/ChenmienTan/malmen).
 
-## 📫 Contact
+##  Contact
 
 For any inquiries, feel free to reach out at **peettherapynoys@gmail.com**
 
-## 📑 Citation
+##  Citation
 If you find **HORSE** useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @inproceedings{gu2026hierarchicalorthogonalresidualspread,
