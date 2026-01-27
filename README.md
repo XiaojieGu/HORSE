@@ -38,6 +38,7 @@ python main.py data=zsre \
     model=llama2-7b \
     editor=horse \
     editor.lr=1e-5 \
+```
 
 
 **Supported Options:**
