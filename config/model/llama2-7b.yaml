@@ -1,0 +1,10 @@
+name_or_path: llama2-7b-hf
+class_name: AutoModelForCausalLM
+edit_modules:
+- model.layers.26.mlp.down_proj
+- model.layers.27.mlp.down_proj
+- model.layers.28.mlp.down_proj
+- model.layers.29.mlp.down_proj
+- model.layers.30.mlp.down_proj
+- model.layers.31.mlp.down_proj
+half: True

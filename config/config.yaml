@@ -1,0 +1,8 @@
+defaults:
+- _self_
+- data: zsre
+- model: llama2-7b
+- editor: horse
+
+model_device: cuda:0
+editor_device: cuda:0

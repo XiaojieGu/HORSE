@@ -1,0 +1,5 @@
+name: cf
+n_edits: 8000
+batch_size: 32
+train_path: ./data/counterfact/cf_train.json
+valid_path: ./data/counterfact/cf_eval.json
