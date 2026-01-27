@@ -3,7 +3,7 @@
 
 ##  Data Preparation
 
-Download the datasets from [Google Drive]([https://TBD](https://drive.google.com/drive/folders/1b22dyhMEZPcfx_cL9xG8DCxkFPC-PREh?dmr=1&ec=wgc-drive-hero-goto)) and place them under:
+Download the datasets from [Google Drive]([https://drive.google.com/drive/folders/1b22dyhMEZPcfx_cL9xG8DCxkFPC-PREh?dmr=1&ec=wgc-drive-hero-goto]) and place them under:
 
 ```
 data/
