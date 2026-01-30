@@ -13,5 +13,10 @@
 
 python main.py data=zsre \
     model=llama2-7b \
-    editor=malmen \
+    editor=horse \
+    editor.lr=1e-6 \
+
+#python main.py data=cf \
+    model=llama2-7b \
+    editor=horse \
     editor.lr=1e-5 \
