@@ -62,7 +62,7 @@ Our work is based on [MALMEN](https://github.com/ChenmienTan/malmen).
 
 ##  Contact
 
-For any inquiries, feel free to reach out at **peettherapynoys@gmail.com**
+For any inquiries, please reach out at **peettherapynoys@gmail.com**
 
 ##  Citation
 If you find **HORSE** useful for your research and applications, please cite using this BibTeX:
