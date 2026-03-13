@@ -1,5 +1,4 @@
-# [Hierarchical Orthogonal Residual Spread for Precise Massive Editing in Large Language Models](https://arxiv.org/pdf/2601.11441) [![arXiv](https://img.shields.io/badge/arXiv-2601.11441-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.11441) [ICASSP'26 Oral, 8%] 
-
+# [Hierarchical Orthogonal Residual Spread for Precise Massive Editing in Large Language Models](https://arxiv.org/pdf/2601.11441) [![arXiv](https://img.shields.io/badge/arXiv-2601.11441-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2601.11441) [[ICASSP'26 Oral, 8%](https://cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=5867)]
 
 ##  Data Preparation
 
